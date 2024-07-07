@@ -18,7 +18,7 @@ export const navItems = [
     },
     {
       id: 2,
-      title: "Sou muito flexível com comunicações de equipe",
+      title: "Sou muito flexível de comunicações em equipe",
       description: "",
       className: "lg:col-span-2 md:col-span-3 md:row-span-2",
       imgClassName: "",
@@ -29,7 +29,7 @@ export const navItems = [
     {
       id: 3,
       title: "Minhas tecnologias",
-      description: "Html, CSS, JavaScript, react.js, next.js, node.js, python, php, SQL",
+      description: "",
       className: "lg:col-span-2 md:col-span-3 md:row-span-2",
       imgClassName: "",
       titleClassName: "justify-center",
