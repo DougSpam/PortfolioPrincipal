@@ -76,7 +76,7 @@ export const navItems = [
       des: "Um site inspirado no site oficial da apple, usando varias bibliotecas para animações 3d.",
       img: "/Projectapple.svg",
       iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
-      link: "https://github.com/adrianhajdin?tab=repositories",
+      link: "",
     },
     {
       id: 2,
@@ -84,7 +84,7 @@ export const navItems = [
       des: "Site para venda de livros , para testar conhecimentos com bibliotecas de carrosel",
       img: "/ProjetoBook.svg",
       iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
-      link: "https://github.com/adrianhajdin/zoom-clone",
+      link: "",
     },
     {
       id: 3,
@@ -92,7 +92,7 @@ export const navItems = [
       des: "Site focado em vendas de streaming, com sistema de redirecionamento para whatsApp.",
       img: "/p3.svg",
       iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/c.svg"],
-      link: "https://github.com/adrianhajdin/ai_saas_app",
+      link: "",
     },
     {
       id: 4,
@@ -100,7 +100,7 @@ export const navItems = [
       des: "Recreated the Apple iPhone 15 Pro website, combining GSAP animations and Three.js 3D effects..",
       img: "/p4.svg",
       iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
-      link: "https://github.com/adrianhajdin/iphone",
+      link: "",
     },
   ];
   
