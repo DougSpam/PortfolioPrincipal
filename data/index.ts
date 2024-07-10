@@ -75,7 +75,7 @@ export const navItems = [
       title: "Site animado da apple em 3d",
       des: "Um site inspirado no site oficial da apple, usando varias bibliotecas para animações 3d.",
       img: "/Projectapple.svg",
-      iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
+      iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg"],
       link: "https://dougappleweb.vercel.app",
     },
     {
@@ -83,7 +83,7 @@ export const navItems = [
       title: "Site de venda de livros",
       des: "Site para venda de livros , para testar conhecimentos com bibliotecas de carrosel",
       img: "/ProjetoBook.svg",
-      iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
+      iconLists: ["/html.svg", "/css.svg", "/javascript.svg"],
       link: "https://books-navy-seven.vercel.app",
     },
     {
@@ -91,7 +91,7 @@ export const navItems = [
       title: "Site de vendas de streaming",
       des: "Site focado em vendas de streaming, com sistema de redirecionamento para whatsApp.",
       img: "/ProjetoStreaming.svg",
-      iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/c.svg"],
+      iconLists: ["/html.svg", "/css.svg", "/javascript.svg"],
       link: "https://streamingdw.vercel.app",
     },
     {
